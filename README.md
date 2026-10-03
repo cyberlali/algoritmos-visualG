@@ -1,23 +1,28 @@
-# 💻 Lógica de Programação com VisualG
+# 💻 Lógica de Programação em VisualG (Manzano & Faccat)
 
-Este repositório guarda os meus primeiros passos no mundo da programação, com foco total no desenvolvimento do raciocínio lógico. Aqui estão as resoluções de dezenas de exercícios clássicos de algoritmos (baseados nas listas de Manzano e Faccat), todos escritos em pseudocódigo utilizando o **VisualG**.
+Este repositório documenta a base do meu aprendizado em programação, com foco no desenvolvimento do raciocínio lógico puro. Aqui estão centralizadas as resoluções de dezenas de exercícios clássicos de algoritmos (extraídos das apostilas Manzano e Faccat), todos escritos em pseudocódigo utilizando o **VisualG**.
+
+## 📚 Conteúdo do Repositório
+
+Os arquivos (com extensão `.alg`) foram organizados de acordo com a progressão das estruturas lógicas estudadas nas duas apostilas:
+
+### 1. Apostila Manzano (Fundamentos e Laços)
+* **L01 - Estruturas Sequenciais:** Entrada e saída de dados (`leia` e `escreval`), declaração de variáveis, operações matemáticas e conversões (temperaturas, moedas).
+* **L02 - Estruturas de Decisão (`se / entao / senao`):** Testes condicionais, operadores relacionais, verificação de números pares/ímpares e cálculo de raízes (Bhaskara).
+* **L03 - Laços de Repetição (`enquanto`):** Teste lógico no início do laço, construção de tabuadas, somatórios e contadores simples.
+* **L04 - Laços de Repetição (`repita ... ate`):** Teste lógico no final do laço, cálculos acumulativos e menus de repetição baseados em resposta do usuário.
+* **L05 - Laços de Repetição (`para ... de ... ate ... faca`):** Estruturas com variáveis de controle automático para processamento de faixas numéricas.
+
+### 2. Apostila Faccat (Lógica de Negócios)
+* **Estruturas de Seleção:** Aplicação de lógicas aninhadas para resolver problemas do dia a dia.
+* **Desafios Comerciais:** Criação de algoritmos para cálculo de salários, comissões de vendas, controle de estoque e sistemas de verificação de senhas.
+* **Teste de Mesa:** Exercícios voltados para o acompanhamento manual dos estados das variáveis.
 
 ## 🛠️ Ferramentas Utilizadas
-* **VisualG 3.0**: Software interpretador de pseudocódigo.
-* **Portugol (Português Estruturado)**: Linguagem de aprendizado para estruturação de algoritmos.
-* **Git & GitHub**: Versionamento de código e portfólio.
+* **VisualG 3.0**: Software interpretador de pseudocódigo em português.
+* **Portugol (Português Estruturado)**: Linguagem didática utilizada para a estruturação inicial dos algoritmos.
 
-## 📂 Estrutura das Listas de Exercícios
+## ⚙️ Como executar o projeto localmente
 
-Os arquivos (com extensão `.alg`) foram organizados de acordo com as estruturas lógicas estudadas:
+Como os códigos estão formatados em Portugol, você precisará do interpretador VisualG para rodá-los na sua máquina.
 
-* **L01 - Estruturas Sequenciais:** Entrada e saída de dados (`leia` e `escreval`), declaração de variáveis, operações matemáticas e conversões (temperaturas, moedas).
-* **L02 - Estruturas de Decisão (`se / entao / senao`):** Testes condicionais, operadores relacionais, verificação de números pares/ímpares e equações de 2º grau.
-* **L03 - Laços de Repetição (`enquanto`):** Teste lógico no início do laço, tabuadas, somatórios e validações simples.
-* **L04 - Laços de Repetição (`repita ... ate`):** Teste lógico no final do laço, cálculos acumulativos e menus de continuação.
-* **L05 - Laços de Repetição (`para ... de ... ate ... faca`):** Estruturas com variáveis de controle (contadores automáticos) para faixas numéricas.
-* **Exercícios Extras (Faccat):** Aplicação de lógicas aninhadas para problemas do dia a dia (cálculo de salários, comissões, controle de estoque e sistemas de login).
-
-## ⚙️ Como executar o projeto localmente?
-
-Como os códigos estão em Portugol, você precisará do interpretador VisualG para rodá-los.
