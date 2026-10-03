@@ -22,7 +22,7 @@ Os arquivos (com extensão `.alg`) foram organizados de acordo com a progressão
 * **VisualG 3.0**: Software interpretador de pseudocódigo em português.
 * **Portugol (Português Estruturado)**: Linguagem didática utilizada para a estruturação inicial dos algoritmos.
 
-## ⚙️ Como executar o projeto localmente
+## ⚙️ Como executar o projeto localmente?
 
 Como os códigos estão formatados em Portugol, você precisará do interpretador VisualG para rodá-los na sua máquina.
 
